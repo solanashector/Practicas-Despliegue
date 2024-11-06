@@ -32,6 +32,8 @@ Interconexión de equipos en escritorios virtuales.
       - Recuerda que debes usar sudo para poder hacerlo.
       - Usa nano, vim o `echo ..... > /etc/hostname`
       - Reinicia el equipo para que surta efecto
+
+      !(cambio_nombre_server.png)
    2. Usando los comandos específicos:
 
       ```sh
