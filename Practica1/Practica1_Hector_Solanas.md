@@ -33,8 +33,8 @@ Interconexión de equipos en escritorios virtuales.
       - Usa nano, vim o `echo ..... > /etc/hostname`
       - Reinicia el equipo para que surta efecto
 
-      !(./imagenes/cambio_nombre_server.png)
-      
+      !(Practica1/imagenes/cambio_nombre_server.png)
+
    2. Usando los comandos específicos:
 
       ```sh
